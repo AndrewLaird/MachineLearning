@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/andrew/MachineLearning/MachineLearning/emotional_analysis/emotional_model"
+all_model_checkpoint_paths: "/home/andrew/MachineLearning/MachineLearning/emotional_analysis/emotional_model"
